@@ -18,7 +18,7 @@ Code examples
 Web development
 ---------------
 
-Marc Andreessen says ["software is eating the world"](http://news.genius.com/Marc-andreessen-why-software-is-eating-the-world-annotated), I agree so this year I decided to jump in to the web development world.
+Marc Andreessen says ["software is eating the world"](http://news.genius.com/Marc-andreessen-why-software-is-eating-the-world-annotated) I agree so this year I decided to jump in to the web development world.
 
 I devoted three months to learning how to code at [Makers Academy]. I would like to continue to improve my skills as a full stack web developer.
 
@@ -63,7 +63,7 @@ I devoted three months to learning how to code at [Makers Academy]. I would like
 Experience
 ----------
 
-I have worked as a Quality Assurance Administrator at NHS Blood and Transplant. During my time at NHSBT I was involved a major project within the Organ Donation and Transplant (ODT) Service to implement a Quality Management System in time for the incoming law and introduction of the EU Tissue and Cells Directive. Since I left NHSBT I have been looking after my daughter full-time until joined Makers Academy in June.
+I have worked as a Quality Assurance Administrator at NHS Blood and Transplant. During my time at NHSBT I was involved a major project within the Organ Donation and Transplant (ODT) Service to implement a Quality Management System in time for the incoming law and introduction of the EU Tissue and Cells Directive. Since I left NHSBT I have been looking after my daughter full-time until joined Makers Academy in June 2014.
 
 ### NHS Blood and Transplant
 **Quality Assurance: August 2008&mdash;September 2012**
