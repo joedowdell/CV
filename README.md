@@ -90,7 +90,7 @@ Connect with me on [Github], [LinkedIn] and [Twitter].
 
   [Beardstagram]: https://github.com/joedowdell/beardstagram
   [Bookmark Manager]: https://github.com/joedowdell/bookmark_manager
-  [Challenge Me]: https://github.com/joedowdell/challenge-me
+  [Challenge Me]: http://challenge--me.herokuapp.com/
 
   [Makers Academy]: http://www.makersacademy.com
   [blog]: http://joedowdell.github.io/
