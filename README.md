@@ -10,7 +10,7 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Challenge.Me] | [Beardstagram] | [Bookmark Manager] |
+| [Challenge.Me](http://challenge--me.herokuapp.com/) | [Beardstagram] | [Bookmark Manager] |
 |:--------------- |:-------- |:--------- |
 | Test Driven Rails MVP created in 10 days to make fundraising fun. | Instagram photo sharing clone built with Ruby on Rails. With a Beardy Shoreditch hipster theme. | Bookmark Manager built using Ruby, Sinatra, Datamapper, Postgresql, Cucumber, RSpec, BCrypt. |
 
