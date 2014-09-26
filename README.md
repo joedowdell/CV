@@ -10,7 +10,7 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Challenge.Me] | [Beardstagram] | [Bookmark Manager] |
+| [Challenge Me] | [Beardstagram] | [Bookmark Manager] |
 |:--------------- |:-------- |:--------- |
 | Test Driven Rails MVP created in 10 days to make fundraising fun. | Instagram photo sharing clone built with Ruby on Rails. With a Beardy Shoreditch hipster theme. | Bookmark Manager built using Ruby, Sinatra, Datamapper, Postgresql, Cucumber, RSpec, BCrypt. |
 
@@ -56,7 +56,7 @@ I devoted three months to learning how to code at [Makers Academy]. I would like
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [Challenge Me] - a Rails 4 app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Jamie Allen], [Chloe Donegan] and [Nikesh Ashar].
+  - Final project: [Challenge Me] - a Rails 4 app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Toan Nguyen], [Jamie Allen], [Chloe Donegan] and [Nikesh Ashar].
 
 
 
